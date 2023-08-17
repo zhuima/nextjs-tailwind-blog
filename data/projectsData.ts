@@ -35,12 +35,12 @@ const projectsData = [
   },
   {
     title: 'New Bing AI',
-    description: `基于New Bing的自建AI Chat平台，让你无限制和 GPT4 畅聊`,
+    description: `基于 New Bing 的自建 AI Chat平台，让你无限制和 GPT4 畅聊`,
     imgSrc: 'https://img.techrk1688.eu.org/file/4ec6203b3e8f0a7c7aff0.png',
     href: 'https://bing.ruankao.eu.org',
   },
   {
-    title: 'AI时代掘金计划',
+    title: 'AI 时代掘金计划',
     description: `记录 AI 相关工具和教程，未来帮助更多的人了解和认识 AI Tools`,
     imgSrc: 'https://img.techrk1688.eu.org/file/f6210ec0254b07ca5a6cf.png',
     href: 'https://wiki.techrk1688.eu.org/docs/intro',
