@@ -3,7 +3,7 @@
 title: React 开发者公认的三个最佳表单库
 date: 2023/08/16 14:23:38
 lastmod: 2023/08/16  14:23:42
-tags: [Three Best React Form Libraries]
+tags: [Three Best React Form Libraries, React]
 draft: false
 summary: 了解基本的 React 表单库对开发人员至关重要，包括 React Hook Form、Formik 和 React Final Form。
 images: https://img.techrk1688.eu.org/file/2f48fa7ea3ffc18460051.png
@@ -99,7 +99,7 @@ Formik 提供了各种功能，包括处理表单重置、异步提交、动态�
 
 ## 2. React Hook Form
 
-![](https://img.techrk1688.eu.org/file/4c652412d0eccc1be4c0a.png)
+![](https://img.techrk1688.eu.org/file/298aab7f9fa2f8a4228d7.png)
 
 React Hook Form 是一个非常有效的表单库，它利用 React 的钩子来管理表单状态和行为。它优先考虑性能，旨在最大限度地减少重新渲染的次数，确保最佳的用户体验。
 
@@ -201,6 +201,8 @@ const { handleSubmit, formState: { errors, isSubmitting } } = useForm();
 必须参考官方文档和示例，以确保您拥有最新的信息，并在项目中实现 React Hook Form 时使用最佳实践。
 
 ## 3、React Final Form
+
+![](https://img.techrk1688.eu.org/file/4c652412d0eccc1be4c0a.png)
 
 React Final Form 是一个广泛使用的表单库，可以有效地管理 React 应用程序中的表单。它提供了一种可靠且适应性强的方法来管理表单状态、验证和提交。React Final Form 是用户友好且高效的，并为复杂场景提供高级功能。
 
