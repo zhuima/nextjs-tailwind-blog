@@ -16,7 +16,7 @@ React，一个流行的用于构建用户界面的JavaScript库，由于其灵�
 
 在本文中，我们将探讨 React 开发的六个最佳工具，它们可以帮助您构建更好、更快、更高效的 React 应用程序。
 
-## 1. React DevTools React DevTools
+## 1. React DevTools
 
 React DevTools 是 React 开发人员必不可少的工具，它允许您实时检查、调试和分析 React 组件。
 
@@ -35,7 +35,7 @@ React DevTools 是 React 开发人员必不可少的工具，它允许您实时�
 - 多个 React 版本：这个 React 工具支持多个版本的 React，使其与可能使用不同版本的 React 的不同项目兼容。您可以在 DevTools 设置中在不同的 React 版本之间切换，从而允许您检查和调试具有不同依赖项的 React 应用程序。
 - 可访问性检查：React DevTools 包含一个可访问性检查功能，可帮助您识别和修复 React 组件中的可访问性问题。您可以检查辅助功能冲突，查看辅助功能属性，并获取有关改进 React 应用程序辅助功能的建议，从而确保您的 UI 可供所有用户访问。
 
-## 2. Redux DevTools Redux DevTools
+## 2. Redux DevTools
 
 如果你使用的是 Redux，一个流行的 React 状态管理库，Redux DevTools 是一个必备的工具。
 
@@ -94,7 +94,7 @@ Storybook 还附带了一组用于可访问性测试、文档生成和可视化�
 - 热模块更换 （HMR）：Storybook 使用热模块更换 （HMR） 提供快速的开发体验，允许开发人员实时查看其组件中的更改，而无需重新加载整页。这加快了开发过程并提高生产力。
 - 插件生态系统：Storybook拥有一个充满活力的插件生态系统，提供额外的功能，例如设计系统集成，可访问性测试，国际化等。这些附加组件可以轻松安装和配置，从而增强 Storybook 针对特定用例的功能。
 
-## 5、ESLint ESLint
+## 5、ESLint
 
 ESLint 是一种流行的 JavaScript linter，可以配置为与 React 应用程序无缝协作。它可以帮助您执行编码标准，捕获常见错误，并防止 React 代码库中的潜在错误。
 
@@ -113,7 +113,7 @@ ESLint 为 React 提供了一组预定义的规则，您还可以根据项目的
 - 命令行界面 （CLI）：此开发工具提供了一个命令行界面 （CLI），允许开发人员从命令行运行它，使其适合集成到生成系统和持续集成 （CI） 管道中。
 - 活跃的社区和定期更新：ESLint 拥有庞大而活跃的用户和贡献者社区，可确保定期更新、错误修复和改进。它在 JavaScript 生态系统中得到积极维护和广泛使用。
 
-## 6、React Router 反应路由器
+## 6、React Router
 
 React Router 是一个强大的 React 路由库，它允许您在应用程序中创建声明性的客户端路由。
 
