@@ -1,11 +1,11 @@
 ---
 
-title: 学 rust 必看教程
+title: 四个值得关注的Rust编程学习资源
 date: 2023/10/11 14:23:38
 lastmod: 2023/10/11  14:23:42
 tags: [rust]
 draft: false
-summary: 想要入门rust, 你需要看的教程
+summary: 本文介绍了四个优质的Rust学习资源，包括MIT和微软的在线教程，一套新手入门视频教程，以及Google Android团队的免费Rust课程。这些资源覆盖了从基础到高级的Rust知识，适合各类学习者，无论是初学者还是希望深化理解的开发者。
 images: https://img.techrk1688.eu.org/file/e8b1baa021e432278223e.png
 authors: ['default']
 layout: PostLayout
