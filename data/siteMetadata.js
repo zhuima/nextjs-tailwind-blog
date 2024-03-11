@@ -1,3 +1,13 @@
+/*
+ * @Author: zhuima zhuima314@gmail.com
+ * @Date: 2023-08-17 16:57:36
+ * @LastEditors: zhuima zhuima314@gmail.com
+ * @LastEditTime: 2024-03-11 10:51:02
+ * @FilePath: /nextjs-tailwind-blog/data/siteMetadata.js
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
+ */
 const siteMetadata = {
   title: '追马 | 全干工程师成长部落阁',
   author: '追马',
@@ -9,7 +19,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/zhuima/nextjs-tailwind-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/blog-og.png',
   email: 'zhuima314@gmail.com',
   github: 'https://github.com/zhuima',
   locale: 'zh-CN',
