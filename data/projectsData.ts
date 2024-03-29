@@ -2,7 +2,7 @@
  * @Author: zhuima zhuima314@gmail.com
  * @Date: 2023-04-21 18:04:25
  * @LastEditors: zhuima zhuima314@gmail.com
- * @LastEditTime: 2023-08-17 16:57:54
+ * @LastEditTime: 2024-03-29 15:59:52
  * @LastEditTime: 2023-08-17 16:19:58
  * @FilePath: /nextjs-tailwind-blog/data/projectsData.ts
  * @Description: 
@@ -10,6 +10,19 @@
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved. 
  */
 const projectsData = [
+    {
+    title: 'Chuhai Tools - 独立开发者出海技术栈和工具',
+    description: `出海第一步，搞定技术栈, 聚合全网独立开发者出海技术栈和工具, 技术出海相关的技术实践经验、合规解读、方案选型等`,
+    imgSrc: 'https://img.techrk1688.eu.org/file/cefff46f0a29ce378b110.png',
+    href: 'https://chuhai.tools/',
+  },
+
+    {
+    title: 'SEO Tools - Awesome Hackers Tools ',
+    description: `收集全网最全的SEO工具，助力运营人员和独立开发者`,
+    imgSrc: 'https://img.techrk1688.eu.org/file/58063a1b4aa5756c5aff2.png',
+    href: 'https://seo.chuhai.tools/',
+  },
   {
     title: 'AIGC 网址导航',
     description: `AIGC 网址导航, 收集 AI 相关工具, 便于查阅`,
